@@ -17,4 +17,6 @@ https://tachingchen.com/tw/blog/kubernetes-101/
 
 
 
+#  kubectl  tools
 
+https://github.com/mhausenblas/kubectl-in-action      
