@@ -1,5 +1,9 @@
 # awsome-k8s
 
+#  Google-Cloud-Blog
+
+https://cloudplatform.googleblog.com
+
 
 
 
