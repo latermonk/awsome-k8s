@@ -5,7 +5,15 @@
 https://cloudplatform.googleblog.com
 
 
+#  Youtube resource :
 
+Kelsey Hightower
+
+search "kubecon 2015"
+
+search "kubecon 2016"
+
+search "kubecon 2017"
 
 #  Lectures & webinar:
 
